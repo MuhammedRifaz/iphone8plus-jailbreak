@@ -1,0 +1,101 @@
+# Installed Packages — iPhone 8 Plus (iOS 16.7.15, palera1n Rootless)
+# Generated from Sileo package manager
+# Device: iPhone 8 Plus | Jailbreak: palera1n rootless | Package Manager: Sileo 2.5.1
+
+Filza File Manager:(com.tigisoftware.filza) 4.0.1-3
+coreutils:(coreutils) 9.5
+zsh:(zsh) 5.9
+Zetsu:(jp.dcsyhi.zetsu) 1.6.2
+p7zip:(p7zip) 17.04
+ncurses-term:(ncurses-term) 6.4
+Vitreux:(com.mtac.vitreux) 1.3
+dpkg:(dpkg) 1.22.6
+sudo:(sudo) 1.9.15p5
+libssl3:(libssl3) 3.2.1
+apt:(apt) 2.9.4-1
+bash:(bash) 5.2.21
+system-cmds:(system-cmds) 979.100.8
+SnowBoard:(com.spark.snowboard) 1.5.37-Beta4-rootless
+Cephei Tweak Support:(ws.hbang.common) 2.0
+libapt-pkg6.0:(libapt-pkg6.0) 2.9.4-1
+tar:(tar) 1.35
+GesturesXV:(com.nahtedetihw.gesturesxv) 1.6
+base:(base) 2
+Alderis Color Picker:(ws.hbang.alderis) 1.2.3
+diffutils:(diffutils) 3.10
+findutils:(findutils) 4.9.0-1
+libgnutls30:(libgnutls30) 3.8.5
+libunistring5:(libunistring5) 1.2
+CC26:(com.cureux.cc26) 1.0.6
+diskdev-cmds:(diskdev-cmds) 718
+libp11-kit0:(libp11-kit0) 0.25.3
+grep:(grep) 3.11
+Choicy:(com.opa334.choicy) 1.5.3-2
+shell-cmds:(shell-cmds) 278-2
+libbrotli1:(libbrotli1) 1.1.0
+uikittools:(uikittools) 2.1.7
+Atria:(me.lau.atria) 1.4.1
+libgcrypt20:(libgcrypt20) 1.10.3
+ncurses-bin:(ncurses-bin) 6.4
+libncursesw6:(libncursesw6) 6.4
+libzstd1:(libzstd1) 1.5.5
+AppSync Unified:(ai.akemi.appsyncunified) 116.0
+file-cmds:(file-cmds) 430.100.5
+unzip:(unzip) 6.0-28
+libpam-modules:(libpam-modules) 1000.0
+TrollStore Lite:(com.opa334.trollstorelite) 2.1.1
+zip:(zip) 3.0-12
+libgmp10:(libgmp10) 6.3.0
+libpcre2-8-0:(libpcre2-8-0) 10.43
+CCSupport:(com.opa334.ccsupport) 1.3.13-2
+gpgv:(gpgv) 2.4.5
+unrar:(unrar) 7.0.7
+libpcre1:(libpcre1) 8.45-1
+vi:(vi) 070224
+libreadline8:(libreadline8) 8.2.0-1
+RoundDock Remastered:(com.thomz.rounddockremastered) 1.0
+libidn2-0:(libidn2-0) 2.3.7
+PreferenceLoader:(preferenceloader) 2.2.8
+VisibleIsland:(com.ethxnn88.visibleisland) 2.0
+debianutils:(debianutils) 5.19
+libnettle8:(libnettle8) 3.9.1
+gzip:(gzip) 1.13
+libhogweed6:(libhogweed6) 3.9.1
+sed:(sed) 4.9
+AltList:(com.opa334.altlist) 1.0.11
+libcrypt2:(libcrypt2) 4.4.36
+liblzma5:(liblzma5) 5.4.4
+ca-certificates:(ca-certificates) 20240604
+ldid:(ldid) 2.1.5-procursus7
+libedit0:(libedit0) 3.1-20230828
+libgpg-error0:(libgpg-error0) 1.48
+libintl8:(libintl8) 0.22
+dash:(dash) 0.5.12
+libassuan0:(libassuan0) 2.5.7
+libz-ng2:(libz-ng2) 2.1.6
+liblz4-1:(liblz4-1) 1.9.4
+darwintools:(darwintools) 1.6
+launchctl:(launchctl) 1:1.2.0
+libplist3:(libplist3) 2.2.0+git20230130.4b50a5a
+libtasn1-6:(libtasn1-6) 4.19.0
+libffi8:(libffi8) 3.4.6
+libpam2:(libpam2) 20230627
+libmd0:(libmd0) 1.1.0
+shshd:(shshd) 1.1.1.1
+libnpth0:(libnpth0) 1.7
+libdimentio0:(libdimentio0) 1:0~20230202.7ffffff
+libiosexec1:(libiosexec1) 1.3.1
+snaputil:(snaputil) 12.3
+libkrw0:(libkrw0) 1.1.1-2
+libkrw0-tfp0:(libkrw0-tfp0) 1.1.1-2
+libxxhash0:(libxxhash0) 0.8.2
+profile.d:(profile.d) 0-7
+havoc-keyring:(havoc-keyring) 2022.06.03
+dhinakg-keyring:(dhinakg-keyring) 2023.04.02
+chariz-keyring:(chariz-keyring) 2021.07.18
+procursus-keyring:(procursus-keyring) 2020.05.09-4
+Sileo:(org.coolstar.sileo) 2.5.1
+ElleKit:(ellekit) 1.1.3
+essential:(essential) 0-5
+Solid Glass 2:(com.ivintagelover.solidglassrl) 2.2.1
+iCleaner Pro:(com.exile90.icleanerpro) 7.10.0
