@@ -2,6 +2,13 @@
 
 > **A complete, real-world walkthrough for jailbreaking iPhone 8 Plus on iOS 16.7.15 — including baseband/IMEI loss bypass, activation workaround, and full tweak setup.**
 
+<div align="center">
+<img width="20%" alt="Multi (2)" src="https://github.com/user-attachments/assets/c9ade3d3-c9d1-4509-85c5-f49b728e8ffc" />
+<img width="20%" alt="Home" src="https://github.com/user-attachments/assets/3464e5d2-4b15-4fd3-a30e-51c930ad6602" />
+<img width="20%" alt="Control" src="https://github.com/user-attachments/assets/169b60dd-e31b-4bf0-94a7-f18157016ce0" />
+<img width="20%" alt="Lock" src="https://github.com/user-attachments/assets/5f0f37ea-c693-44b9-9f1d-218794ddc4b6" />
+</div>
+
 ---
 
 ## 📱 Device Info
